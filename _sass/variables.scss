@@ -1,40 +1,28 @@
-//colors
-$bodycolor           : #D24D57;
-$black           	 : #000;
-$white               : #fff;
-$color_gray          : #e8e8e8;
-$red                 : #FF4136;
-$maroon              : #85144b;
-$color_tuatara       : #383838;
-$color_shark         : #282828;
-$color_mischka       : #d0d1d5;
-$color_mercury       : #e5e6e9;
-$color_bon_jour      : #dfe0e4;
-$color_gallery       : #f0f0f0;
-$color_stack         : #8c8b8b;
-$color_alabaster     : #f9f9f9;
-$color_tundora       : #444;
-$color_fuscous_gray  : #555;
-$color_alabaster     : #fcfcfc;
-$color_celeste       : #ccc;
-$color_pink_swan     : #bbb;
-$comp-color 	     : complement(#222); 
 
-//button colors
-$success			 : #5cb85c;
-$warning			 : #dd8338;
-$danger				 : #C64537;
-$info		         : #308cbc;
+$gray-lightest:     #F8F8F8;
+$gray-lighter:      #EEEEEE;
+$gray-light:        #DDDDDD;
+$gray:              #CCCCCC;
+$gray-dark:         #999999;
+$gray-darker:       #666666;
+$gray-darkest:      #333333;
 
-//fonts
-$font1               : Fira Sans,sans-serif;
-$font2               : Inconsolata;
-$alt-font            : serif;
-$doc-font-size       : 16;
-$doc-line-height     : 26;
+$green:             #156F78;
+$purple:            #493252;
+$red:               #E25440;
+$orange:            #FB9C50;
+$slate:             #3D4260;
+$blue:              #2568A3;
+$catred:            #BF1827;
 
-//media
-$small               : "only screen and (max-width: 30em)";
-$medium              : "only screen and (min-width: 30.1em) and (max-width: 48em)";
-$large               : "only screen and (min-width: 48.1em) and (max-width: 62.5em)";
-$notsmall            : "only screen and (min-width: 48em)";
+$primary-color:     $catred;
+$secondary-color:   #5BA4E5;
+
+$link-color:        $primary-color;
+$hover-color:       darken($link-color, 15%);
+$body-color:        darken($gray-darker, 15%);
+
+$sans-font:         "ff-tisa-web-pro-1","ff-tisa-web-pro-2","Lucida Grande","Hiragino Sans GB","Hiragino Sans GB W3","Microsoft YaHei","WenQuanYi Micro Hei",sans-serif;
+$serif-font:        "ff-tisa-web-pro-1","ff-tisa-web-pro-2","Lucida Grande","Hiragino Sans GB","Hiragino Sans GB W3","Microsoft YaHei","WenQuanYi Micro Hei",sans-serif;
+
+$border-radius:     3px;

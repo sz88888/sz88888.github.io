@@ -1,30 +1,13 @@
-# Moon Jekyll Theme [![Donate](https://img.shields.io/badge/paypal-donate-blue.svg)](https://www.paypal.me/taylantatli/0usd)  
-  
-## `Sorry guys but there will be no update until I buy a new laptop.`
-    
-######(If you like this theme or using it, please give a :star: for motivation.)
+# Vno - Jekyll
 
-**[Moon](https://taylantatli.github.io/Moon)** is a minimal, one column jekyll theme.
+[Vno Jekyll](https://github.com/onevcat/vno-jekyll) is a theme for [Jekyll](http://jekyllrb.com). It is a port of my Ghost theme [vno](https://github.com/onevcat/vno), which is originally developed from [Dale Anthony's Uno](https://github.com/daleanthony/uno).
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+## Live Demo
 
-## Preview
+See [Vno - Jekyll](http://vno.onevcat.com) site and [my blog](http://onevcat.com).
 
-![screenshot of Moon](https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png)    
-![screenshot of Moon](https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png)
+You can also find some instruction as well as other sites using Vno theme in [this page](http://vno.onevcat.com/2016/02/hello-world-vno/).
 
-See a [live version of Moon](https://taylantatli.github.io/Moon) hosted on GitHub.
+## Licence
 
-## Getting Started
-
-To learn how to install and use this theme check out the [Setup Guide](https://taylantatli.github.io/Moon/moon-theme/) for more information.
+Great thanks to [Dale Anthony](https://github.com/daleanthony) and his [Uno](https://github.com/daleanthony/uno). Vno Jekyll is based on Uno, and contains a lot of modification on page layout, animation, font and some more things I can not remember. Vno Jekyll is followed with Uno and be licensed as [Creative Commons Attribution 4.0 International](http://creativecommons.org/licenses/by/4.0/). See the link for more information.

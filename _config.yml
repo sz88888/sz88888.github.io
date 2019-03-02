@@ -24,7 +24,7 @@ blog_button:
 nav:
     - {title: Google, description: My WEB, url: 'http://www.google.com'}
     # - {title: Another Button, description: A button, url: 'http://example.com'}
-
+    - {title: one more, description: no, url: 'www.baidu.com'}
 # Pagination
 plugins: [jekyll-paginate]
 paginate: 10

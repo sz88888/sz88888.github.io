@@ -3,7 +3,7 @@ title: Shizhan's World
 subtitle: testestesettse
 welcome_message: 欢迎
 description: wowow
-creator: <a href="www.google.com">creator</a>
+creator: <a href="sz88888.github.io">Shizhan</a>
 
 url: "http://sz88888.github.io"
 
@@ -13,7 +13,7 @@ permalink: /:year/:month/:title/
 highlighter: rouge
 
 # supported colors: blue, green, purple, red, orange or slate. If you need clear, leave it empty.
-cover_color: slate
+cover_color:
 
 # The blog button should not be removed.
 blog_button:
@@ -24,7 +24,7 @@ blog_button:
 nav:
     - {title: Google, description: My WEB, url: 'http://www.google.com'}
     # - {title: Another Button, description: A button, url: 'http://example.com'}
-    - {title: one more, description: no, url: 'www.baidu.com'}
+    - {title: one more thing, description: no, url: 'www.baidu.com'}
 # Pagination
 plugins: [jekyll-paginate]
 paginate: 10

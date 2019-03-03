@@ -1,8 +1,8 @@
 # Basic
 title: Shizhan's World
-subtitle: testestesettse
-welcome_message: 欢迎
-description: wowow
+subtitle: Hi there!
+welcome_message:
+description:
 creator: <a href="sz88888.github.io">Shizhan</a>
 
 url: "http://sz88888.github.io"
@@ -13,7 +13,7 @@ permalink: /:year/:month/:title/
 highlighter: rouge
 
 # supported colors: blue, green, purple, red, orange or slate. If you need clear, leave it empty.
-cover_color:
+cover_color: blue
 
 # The blog button should not be removed.
 blog_button:

@@ -329,6 +329,7 @@ td:last-child {
   border-radius: 50%;
   border: 3px solid #4aaaf0;
   box-shadow:0 0 4px 4px rgba(000,000,000,.3);
+  transition: color 200ms;
 }
 
 .blog-button:hover {

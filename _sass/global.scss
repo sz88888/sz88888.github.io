@@ -322,13 +322,13 @@ td:last-child {
 .logo {
   border-radius: 50%;
   border: 3px solid #FFF;
-  box-shadow:0 0 1px 1px rgba(000,000,000,.3);
+  box-shadow:0 0 4px 4px rgba(000,000,000,.3);
 }
 
 .logo:hover {
   border-radius: 50%;
   border: 3px solid #4aaaf0;
-  box-shadow:0 0 4px 4px rgba(000,000,000,.3);
+  box-shadow:0 0 6px 6px rgba(000,000,000,.3);
   -webkit-transition: 200ms;
   -o-transition: 200ms;
   transition: border 200ms;

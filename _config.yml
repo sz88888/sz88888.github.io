@@ -1,8 +1,8 @@
 # Basic
 title: Shizhan's World
-subtitle: to be continued...
+subtitle: To be continued...
 welcome_message: o̖⸜((̵̵́ ̆͒͟˚̩̭ ̆͒)̵̵̀)⸝o̗ Hooray！
-description: Machine Learning| Web Crawler| Frontend| Quant Invest
+description: Machine Learning| Data Mining| Frontend| Quant Invest
 creator: <a href="http://sz88888.github.io">Shizhan</a>
 
 url: "http://sz88888.github.io"
@@ -37,7 +37,7 @@ comment:
 
 # Social
 social:
-    weibo: 微博小助手
+    #weibo: 微博小助手
     github: sz88888
     #twitter:
     #gplus:

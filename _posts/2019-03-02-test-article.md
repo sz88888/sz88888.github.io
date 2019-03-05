@@ -12,13 +12,14 @@ date: 2019-03-02 21:32
  This is the test article.
 
  ```
- Why use bash here?
+ block here
  ```
 
- `This`is a cell
- [This is my blog.](sz88888.github.io)
+ `This`is a cell.
 
+ [This is my blog.](shizhan.world)
 
+Chart Here
 | Name                        | dqwdqwe  |
 | if u want to build a chart. | u should |
 | do it like this.            | right?   |

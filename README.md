@@ -1,7 +1,14 @@
-Hi there!
+Shizhan.world
 ====
 
-All the experience about data science, web design, cloud serve will be recorded here. 
+This is my first blog, all the thinking and experience would be post here. 
 
 **Have fun!**
 
+Release
+-----
+
+##### V1.0  Getting Start
+
+* Build a brand new blog website from scratch.
+* - Need tags to classify articles.

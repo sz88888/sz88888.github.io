@@ -19,7 +19,7 @@ date: 2019-03-02 21:32
 
  [This is my blog.](shizhan.world)
 
-  Chart Here
+
 
 | Name                        | dqwdqwe  |
 | if u want to build a chart. | u should |

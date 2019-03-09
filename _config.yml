@@ -26,7 +26,7 @@ nav:
     # - {title: Another Button, description: A button, url: 'http://example.com'}
     - {title: one more thing, description: Search Me, url: 'http://zszdata.com/DigitalViz/scatter-map-brush.html'}
 
-      - {title: test, description: Search Me, url: 'http://zszdata.com/DigitalViz/gaode/gaode_echart.html'}
+    - {title: test, description: Search Me, url: 'http://zszdata.com/DigitalViz/gaode/gaode_echart.html'}
 # Pagination
 plugins: [jekyll-paginate]
 paginate: 10

@@ -22,10 +22,10 @@ blog_button:
 
 # Navigation buttons in the front page.
 nav:
-    - {title: test, description: Search Me, url: 'http://zszdata.com/DigitalViz/gaode/gaode_echart.html'}
+    - {title: test, description: Search Me, url: 'https://zszdata.com/DigitalViz/gaode/gaode_echart.html'}
     # - {title: Google Me, description: Google Me, url: 'https://www.google.com/search?source=hp&ei=kCV8XNCPIuOflwS-wqSADQ&q=sz88888.github&btnK=Google+%E6%90%9C%E7%B4%A2&oq=sz88888.github&gs_l=psy-ab.3...2295.12810..13465...9.0..0.84.1172.21......0....1..gws-wiz.....6..35i39j0j0i67j0i12j0i203j0i10j0i10i30j0i30j0i5i10i30.HpheLGRM7z0'}
     # - {title: Another Button, description: A button, url: 'http://example.com'}
-    - {title: Project List, description: Click Here, url: 'http://http://zszdata.com/DigitalViz'}
+    - {title: Project List, description: Click Here, url: 'https://zszdata.com/DigitalViz'}
 
     # - {title: test, description: Search Me, url: 'http://zszdata.com/DigitalViz/gaode/gaode_echart.html'}
 # Pagination

@@ -3,13 +3,13 @@ pages:
  home:
   # 首页配置
   zh-cn:
-   title: '网页标签title'
-   keywords: '关键词1，关键词2'
+   title: 'Shizhan's World'
+   keywords: '机器学习，深度学习，数据可视化'
    description: '页面内容简介'
   # home config
   en-us:
-   title: 'page title'
-   keywords: 'keyword1,keyword2'
+   title: 'Shizhan's World'
+   keywords: 'Machine learning, Deep learning, Quant Investment'
    description: 'page description'
  community:
   # 社区页配置

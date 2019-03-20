@@ -1,7 +1,14 @@
 ---
 layout: post
-title: Just have fun
+title: "Just have fun"
+subtitle: " The sub /' title "
 date: 2019-03-02 21:32
+author: "zsz"
+catalog: true
+tags: 
+      - test
+      - playground
+      - casual
 ---
 
 

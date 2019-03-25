@@ -3,8 +3,8 @@ title: ZSZ Blog
 SEOTitle: zsz的博客 | zsz Blog
 header-img: img/home-bg.jpg
 email: zsz@gmail.com
-description: "This is description"
-keyword: "keyword1, Web, JavaScript, 前端, 设计"
+description: "For A Better World"
+keyword: "Deep Learning, Web, JavaScript, 前端, 设计"
 url: "https://zszdata.com"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 

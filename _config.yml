@@ -14,7 +14,7 @@ future: true
 # SNS settings
 RSS: false
 weibo_username:     asd
-zhihu_username:     asd
+#zhihu_username:     asd
 github_username:    sz88888
 twitter_username:   asd
 #facebook_username:
@@ -71,7 +71,7 @@ netease_comment: false
 # ba_track_id: [your track id]
 
 # Google Analytics
-ga_track_id: '1xxx'            # Format: UA-xxxxxx-xx
+ga_track_id: '135534497'            # Format: UA-xxxxxx-xx
 ga_domain: xxxx
 
 

@@ -48,7 +48,7 @@ if(navigator.serviceWorker){
     if(data.command == "UPDATE_FOUND"){
       console.log("UPDATE_FOUND_BY_SW", data);
       createSnackbar({
-        message: "Content updated.<br> 有新内容了！",
+        message: "Content updated. 有新内容了！",
         actionText:"refresh / 刷新",
         action: function(e){location.reload()}
       })

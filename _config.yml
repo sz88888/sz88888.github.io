@@ -4,7 +4,7 @@ SEOTitle: zsz的博客 | zsz Blog
 header-img: img/home-bg.jpg
 email: zsz@gmail.com
 description: "For A Better World"
-keyword: "Deep Learning, Web, JavaScript, 前端, 设计"
+keyword: "Deep Learning, Web, JavaScript"
 url: "https://zszdata.com"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
@@ -17,7 +17,7 @@ weibo_username:     asd
 zhihu_username:     asd
 github_username:    sz88888
 twitter_username:   asd
-#facebook_username:  
+#facebook_username:
 #linkedin_username:  firstname-lastname-idxxxx
 
 
@@ -79,7 +79,7 @@ ga_domain: xxxx
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Side-bar description<br>side bar description"
-sidebar-avatar: /img/avatar-hux-ny.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/doraemon1.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 

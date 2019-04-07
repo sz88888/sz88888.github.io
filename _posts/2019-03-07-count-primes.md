@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "204 Count Primes"
+title: "leetcode-204 Count Primes"
 subtitle: ""
 date: 2019-03-09 21:32
 author: "zsz"

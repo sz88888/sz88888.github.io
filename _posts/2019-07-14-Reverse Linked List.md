@@ -2,7 +2,7 @@
 layout: post
 title: "Reverse Linked List 反转链表"
 subtitle: ""
-date: 2019-07-014 21:32
+date: 2019-07-14 21:32
 author: "zsz"
 catalog: true
 tags: 

@@ -9,7 +9,7 @@ tags:
       - leetcode
       - python
       - algorithm
-      - Chain 链表
+      - Linked List 链表
       
 
 ---
